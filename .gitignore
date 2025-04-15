@@ -1,0 +1,13 @@
+/.DS_Store
+/Realigned files
+/all_textgrid_data3.csv
+/all_textgrid_data3.csv.numbers
+/all_textgrid_data_cleaned_text.csv
+/dialogue_act_classification_with_random_forest.png
+/speech_features_test_with_speech_rate.csv
+/speech_features_train_with_speech_rate.csv
+/speech_features_valid_with_speech_rate.csv
+/stance_vectors.csv
+/text_features_test.csv
+/text_features_train.csv
+/text_features_valid.csv
